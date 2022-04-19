@@ -8,6 +8,7 @@ h1{
     transition: all 1s;
 }
 .botonFacebook:hover{
+    /* Listo para mergear */
     background-image: linear-gradient(yellow, green);
     transform: scale(1);
 }
